@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T19:02:38.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="7RdaYwLSZ-ltLKn6I36W" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-16T19:05:01.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="zlRuJbPqXuSlEzqFRkvY" version="21.0.6" type="github">
   <diagram name="Sayfa -1" id="dFD1YRZlwAUyUcAjZm8z">
-    <mxGraphModel dx="1313" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="700" dy="361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="gfVUpPzcq7ltvzQVfOQL-8" value="SAYI%3 == 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="300" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gfVUpPzcq7ltvzQVfOQL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gfVUpPzcq7ltvzQVfOQL-10" target="gfVUpPzcq7ltvzQVfOQL-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gfVUpPzcq7ltvzQVfOQL-10" value="TOPLAM+=SAYI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="410" width="120" height="60" as="geometry" />
